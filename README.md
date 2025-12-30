@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=hiteshi32&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding animation" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2IrnxHIrzT6NcTtmM1LnKvfGfoQlHVlqF0w&s">
+<img align="right" alt="Coding animation" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2IrnxHIrzT6NcTtmM1LnKvfGfoQlHVlqF0w&s">
 
 ### 👨‍💻 About Me
 
