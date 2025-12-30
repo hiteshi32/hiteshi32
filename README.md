@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on full-stack web development projects
+- 🔭 Currently working on AI-driven systems and intelligent applications, focusing on scalable backend workflows and real-world problem solving
 - 🌱 Continuously learning and exploring new technologies
 - 🏆 Active participant in competitive programming contests
 - ♟️ Chess enthusiast and problem solver
