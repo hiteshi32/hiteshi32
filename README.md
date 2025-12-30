@@ -82,15 +82,6 @@
 
 
 ### 📊 GitHub Statistics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiteshi32&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshi32&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshi32&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshi32&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiteshi32&show_icons=true&locale=en&layout=compact" alt="hiteshi32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshi32&show_icons=true&locale=en" alt="hiteshi32" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshi32&" alt="hiteshi32" /></p>
