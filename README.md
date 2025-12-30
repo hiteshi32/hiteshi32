@@ -82,15 +82,6 @@
 
 
 ### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshi32&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshi32&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiteshi32&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiteshi32&show_icons=true&locale=en&layout=compact" alt="hiteshi32" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshi32&show_icons=true&locale=en" alt="hiteshi32" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshi32&" alt="hiteshi32" /></p>
